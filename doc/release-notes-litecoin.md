@@ -7,7 +7,8 @@ performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/litecoin-project/litecoin/issues>
+  <https://github.com/lunacoin-project/litecoin/issues>
+  <https://github.com/lunacoin-project/litecoin/issues>
 
 To receive security and update notifications, please subscribe to:
 
