@@ -219,8 +219,8 @@ public:
         vFixedSeeds.clear();
         vSeeds.clear();
         // nodes with support for servicebits filtering should be at the top
-        vSeeds.emplace_back("lunacoinseed1.sobitkarki.com", true);
-        vSeeds.emplace_back("lunacoinseed2.sobitkarki.com", true);
+        vSeeds.emplace_back("lunacointest1.sobitkarki.com", true);
+        vSeeds.emplace_back("lunacointest2.sobitkarki.com", true);
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,142);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,196);
