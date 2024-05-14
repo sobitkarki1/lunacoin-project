@@ -30,6 +30,7 @@
 #include <event2/keyvalq_struct.h>
 
 #include <support/events.h>
+#include <deque> // what the hell bro 
 
 #ifdef EVENT__HAVE_NETINET_IN_H
 #include <netinet/in.h>
