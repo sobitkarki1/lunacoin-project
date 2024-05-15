@@ -118,6 +118,7 @@ contrib/devtools/split-debug.sh
 
 
 # Keep depends file
-*.patch
+*.patch./
 !depends/patches/**/*.patch
 !depends/Makefile
+
